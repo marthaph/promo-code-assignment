@@ -1,0 +1,11 @@
+.centred {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Push the page content below the fixed AppHeader (44px bar) */
+.withHeader {
+  padding-top: 44px;
+}
