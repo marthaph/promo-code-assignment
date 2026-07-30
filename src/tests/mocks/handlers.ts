@@ -8,6 +8,7 @@ const mockPool: PromoCode[] = [
     id: 'test-id-001',
     code: 'TEST25',
     status: 'available',
+    assignedTo: null,
     assignedAt: null,
     usedAt: null,
     expiresAt: null,
